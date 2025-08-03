@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aditya-dev-81680-authRole",
+      "UnauthRoleArn": "arn:aws:iam::997241705634:role/amplify-aditya-dev-81680-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::997241705634:role/amplify-aditya-dev-81680-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aditya-dev-81680-deployment",
+      "UnauthRoleName": "amplify-aditya-dev-81680-unauthRole",
+      "StackName": "amplify-aditya-dev-81680",
+      "StackId": "arn:aws:cloudformation:us-east-1:997241705634:stack/amplify-aditya-dev-81680/915a5620-7095-11f0-853c-129d97db9447",
+      "AmplifyAppId": "d2cc9sk53u0mm4"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
