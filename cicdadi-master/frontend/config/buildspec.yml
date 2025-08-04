@@ -6,6 +6,7 @@ phases:
       nodejs: 22
     commands:
       - echo Installing Web dependencies
+      - cd frontend
       - npm install --silent
       - echo Finished installing Web dependencies
   build:
